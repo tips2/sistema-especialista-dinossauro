@@ -3,7 +3,7 @@ Sistema Especialista Dinossauro
 
 Este fork tem origem no código https://github.com/LucasJaenisch/sistema-especialista-dinossauro e agradeçemos antecipadamente sua disponibilização como código aberto.
 
-
+Para os alunos do curso de IA
 Instruções para a disciplina:
 Coloque o código para executar, excutando o comando python.exe main.py
 Converse com esse "sistema especialista" e responda as questões abaixo. 
