@@ -17,3 +17,7 @@ Q2-Este sistema especialista (sistema-especialista-dinossauro) usa a técnica de
 Q3-Este sistema especialista (sistema-especialista-dinossauro) utiliza uma base de conhecimento baseada em regras do tipo "SE (antecedente)-ENTÃO (consequente)"? (sim, não ou não sei)
 
 (opcional) Q4-Qual técnica esse "sistema especialista" utiliza? 
+
+## Submissão
+
+O resultado desse exercício que será avaliado será: O código que está no seu repositório no final do prazo.
