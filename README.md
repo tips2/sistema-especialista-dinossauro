@@ -20,7 +20,7 @@ Q3-Este sistema especialista (sistema-especialista-dinossauro) utiliza uma base 
 
 ## Submissão
 
-O resultado desse exercício que será avaliado será: O código que está no seu repositório no final do prazo.
+O resultado desse exercício que será avaliado será: O código que estará no seu repositório no final do prazo.
 
 # Teoria sobre Sistemas especialistas 
 
