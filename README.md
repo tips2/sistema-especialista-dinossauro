@@ -1,4 +1,5 @@
-# Atividade Sistema Especialista Dinossauro: Um sistema nem tão especialista assim
+# Atividade Sistema Especialista Dinossauro: 
+## Um sistema nem tão especialista assim
 
 Este fork tem origem no código https://github.com/LucasJaenisch/sistema-especialista-dinossauro e agradeçemos antecipadamente sua disponibilização como código aberto.
 
