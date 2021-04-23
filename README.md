@@ -8,7 +8,7 @@ Para os alunos do curso de IA segue as instruções para o exercício:
 2) Análise rapidamente todos os arquivos desse código fonte,  inclusive o pdf
 3) Converse com esse "sistema especialista" e responda as questões abaixo. 
 
-Coloque as suas respostas no arquivo resposta.md no raiz desse repositório e efetue o commit
+Coloque as respostas as perguntas abaixo(Q1, Q2, Q3 e Q4) no arquivo resposta.md que está no raiz desse repositório e efetue o commit
 
 Q1-Este sistema especialista (sistema-especialista-dinossauro) faz as perguntas de forma dinâmica ou seja nem sempre as mesmas perguntas são exibidas ao usuário, ou sempre as mesmas perguntas são exibidas ao usuário, na mesma ordem?  (sim, não)
 
