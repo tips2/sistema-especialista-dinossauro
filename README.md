@@ -24,6 +24,8 @@ O resultado desse exercício que será avaliado será: O código que está no se
 
 # Teoria sobre Sistemas especialistas 
 
+Parte desse texto foi retirado do repositório https://github.com/tonussi/se-prolog
+
 Um sistema especialista é um sistema computacional com uma estratégia de resolução de problemas.
 
 ![Sistemas Especialistas](sevision.png "Sistemas Especialistas")
