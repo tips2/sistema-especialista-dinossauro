@@ -54,14 +54,9 @@ A máquina de inferências é um programa de computador desenhado para produzir 
 
 [Expert System at Wiki](https://en.wikipedia.org/wiki/Expert_system)
 
-[Language Binding at Wiki](http://en.wikipedia.org/wiki/Language_binding)
-
 [Sistemas Especialistas](http://www.dee.ufma.br/~lpaucar/teaching/ia2000-1/cap4.html)
 
 [IRQ Expert System](http://www.amzi.com/articles/irq_expert_system.htm)
 
 [Building Expert Systems in Prolog](http://www.amzi.com/ExpertSystemsInProlog/index.htm)
 
-[Interfacing Arduino Python](http://playground.arduino.cc/Interfacing/Python)
-
-[Python Unit Test Framework](http://pyunit.sourceforge.net/pyunit.html)
