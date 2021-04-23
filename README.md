@@ -21,3 +21,39 @@ Q3-Este sistema especialista (sistema-especialista-dinossauro) utiliza uma base 
 ## Submissão
 
 O resultado desse exercício que será avaliado será: O código que está no seu repositório no final do prazo.
+
+Um sistema especialista é um sistema computacional com uma estratégia de resolução de problemas.
+
+![Sistemas Especialistas](sevision.png "Sistemas Especialistas")
+
+# Linguagens Pesquisadas
+
+# Arquitetura 
+
+Base de Conhecimentos
+
+É basicamente uma série de regras e calculos que serão feitas para resolver problemas que são encontrados por sistemas mais sofísticados mas que não tem tanta firmeza de decisão. 
+
+```prolog
+IF   | <algo acontecer> ; Antecendente
+THEN | <faça isso>      ; Consequencia
+```
+
+A máquina de inferências é um programa de computador desenhado para produzir um dicernimento sobre regras. Existem muitos tipos de abordagens lógicas, via lógica proposicional, predicados de ordem >= 1, lógica epistêmica, lógica modal, lógica temporal, lógica fuzzy, lógica probabilistica (implementada por Redes de Bayesianas), dentre outras. A proposicional é mais usada, por ser natural nos seres humanos, e é expressada com silogismos. O sistema especialista que usa tal lógica é também chamado de ordem zero-ésima. Com lógica, o programa é capaz de gerar novas informações vindas do conhecimento na base de regras e informações.
+
+- __Base de Conhecimento__: Regras IF-THEN-ELSE + Matemática.
+- __Base de Dados__: Dados específicos para o problema.
+- __Mecânismo de Inferência__: O núcleo pensante.
+- __Interface de Usuário__: Faz o diálogo.
+
+![Modelo](sesch.jpg "Modelo")
+
+# Referências
+
+[Expert System at Wiki](https://en.wikipedia.org/wiki/Expert_system)
+[Language Binding at Wiki](http://en.wikipedia.org/wiki/Language_binding)
+[Sistemas Especialistas](http://www.dee.ufma.br/~lpaucar/teaching/ia2000-1/cap4.html)
+[IRQ Expert System](http://www.amzi.com/articles/irq_expert_system.htm)
+[Building Expert Systems in Prolog](http://www.amzi.com/ExpertSystemsInProlog/index.htm)
+[Interfacing Arduino Python](http://playground.arduino.cc/Interfacing/Python)
+[Python Unit Test Framework](http://pyunit.sourceforge.net/pyunit.html)
