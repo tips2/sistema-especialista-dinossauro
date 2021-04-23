@@ -22,11 +22,11 @@ Q3-Este sistema especialista (sistema-especialista-dinossauro) utiliza uma base 
 
 O resultado desse exercício que será avaliado será: O código que está no seu repositório no final do prazo.
 
+# Teoria sobre Sistemas especialistas 
+
 Um sistema especialista é um sistema computacional com uma estratégia de resolução de problemas.
 
 ![Sistemas Especialistas](sevision.png "Sistemas Especialistas")
-
-# Linguagens Pesquisadas
 
 # Arquitetura 
 
