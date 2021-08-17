@@ -8,15 +8,7 @@ Para os alunos do curso de IA segue as instruções para o exercício:
 2) Análise rapidamente todos os arquivos desse código fonte,  inclusive o pdf
 3) Converse com esse "sistema especialista" e responda as questões abaixo. 
 
-Coloque as respostas as perguntas abaixo(Q1, Q2, Q3 e Q4) no arquivo resposta.md que está no raiz desse repositório e efetue o commit
-
-Q1-Este sistema especialista (sistema-especialista-dinossauro) faz as perguntas de forma dinâmica ou seja nem sempre as mesmas perguntas são exibidas ao usuário, ou sempre as mesmas perguntas são exibidas ao usuário, na mesma ordem?  (sim, não)
-
-Q2-Este sistema especialista (sistema-especialista-dinossauro) usa a técnica de encadeamento para frente e encademento para trás, ou nenhuma delas? (sim, não ou não sei)
-
-Q3-Este sistema especialista (sistema-especialista-dinossauro) utiliza uma base de conhecimento baseada em regras do tipo "SE (antecedente)-ENTÃO (consequente)"? (sim, não ou não sei)
-
-(opcional) Q4-Qual técnica esse "sistema especialista" utiliza? 
+Edite o arquivo resposta.md que está no raiz desse repositório e efetue o commit com as suas respostas aos questionamentos.
 
 ## Submissão
 
@@ -30,7 +22,7 @@ Um sistema especialista é um sistema computacional com uma estratégia de resol
 
 ![Sistemas Especialistas](sevision.png "Sistemas Especialistas")
 
-# Arquitetura 
+# Teoria 
 
 Base de Conhecimentos
 
